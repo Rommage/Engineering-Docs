@@ -11,7 +11,7 @@ Our gitflow is divided into four (4) major parts
 
     - **subsequently**: Navigate to `master` branch using `git checkout master` then `git pull` or `git pull origin master`.
 
-    - **NB: NEVER tamper with the master branch, ALWAYS let the status be clean to avoid merge conflicts**.
+    - **NB: NEVER tamper with the master branch, ALWAYS let the status be clean to avoid remote merge conflicts**.
 
 - **Creating/using existing branch to work**
     - **new branch**: Create  new branch using `git checkout -b #branch_name`
